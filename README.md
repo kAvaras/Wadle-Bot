@@ -1,0 +1,2 @@
+# Wadle Bot
+ Wordle Bot
