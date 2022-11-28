@@ -2,7 +2,4 @@
  Wordle Bot
 
 
-
-
-
-Install Python and run it, I will continue to try to convert this to an EXE.
+Just remember to pip install everything before running.
